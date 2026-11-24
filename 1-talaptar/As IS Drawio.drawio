@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="ZLU90b_lb_ZsWKW0n2io">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ctLWsUuo2jVgcOvgc5eB-30" edge="1" parent="1" source="mEKTyKmtV6HzF3uvQWDw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mEKTyKmtV6HzF3uvQWDw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEKTyKmtV6HzF3uvQWDw-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Бастау" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctLWsUuo2jVgcOvgc5eB-52" edge="1" parent="1" source="mEKTyKmtV6HzF3uvQWDw-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEKTyKmtV6HzF3uvQWDw-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Жабдык ыстеп шыгары" vertex="1">
+          <mxGeometry height="70" width="200" x="320" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ctLWsUuo2jVgcOvgc5eB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="КОНЕЦ" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="ctLWsUuo2jVgcOvgc5eB-61" edge="1" parent="1" source="R-NaQgJyCGApqmjQwDdq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ctLWsUuo2jVgcOvgc5eB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-NaQgJyCGApqmjQwDdq-3" edge="1" parent="1" source="R-NaQgJyCGApqmjQwDdq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.33333333333326" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-NaQgJyCGApqmjQwDdq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Техникалык жабдык тексереды" vertex="1">
+          <mxGeometry height="90" width="200" x="320" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="R-NaQgJyCGApqmjQwDdq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;Жабдык жондеу&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="200" x="320" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="R-NaQgJyCGApqmjQwDdq-7" edge="1" parent="1" source="R-NaQgJyCGApqmjQwDdq-5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="420" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-NaQgJyCGApqmjQwDdq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Натиже журналга жазу" vertex="1">
+          <mxGeometry height="90" width="200" x="320" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
